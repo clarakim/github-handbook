@@ -118,3 +118,12 @@ Using this technique you can download public repos for existing libraries and fr
 
 ### Merging branches
 *To be completed...*
+
+
+
+
+###When The remote end hung up unexpectedly
+
+git config --global http.postBuffer 524288000
+
+
